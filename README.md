@@ -1,16 +1,16 @@
 # coursework_heart_disease_pridiction
 This courework is regardig using data mining and machine leaning tools o a hearts desiease datet to predict heart disease a person
-## prerequisite:
-Google colab
-python
-## programming language: 
+## Pre-requisite:
+* Google colab
+* python
+## Programming language: 
 python3
 
-## dataset:
+## Dataset:
 
 Dataset source: kaggle [heart.csv](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
 
-##algorithm used:
+## Algorithm used:
 * Kmean
 * Decision Tree
 * Random Forest
